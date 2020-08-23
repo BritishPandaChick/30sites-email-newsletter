@@ -1,0 +1,128 @@
+/* Base Styles */
+body {
+    width: 100%;
+    margin: 0 auto;
+    color: #333;
+    font-family: 'PT Sans', sans-serif;
+}
+
+/* Header */
+header {
+    border: 2px solid green;
+    padding: 50px;
+}
+
+header h1 {
+    font-size: 55px;
+    font-family: 'Allura', cursive;
+}
+
+header h3 {
+    font-size: 35px;
+}
+
+/* Message */
+#message {
+    padding: 40px 0;
+}
+
+#message h2 {
+    font-size: 45px;
+    font-family: 'Allura', cursive;
+}
+
+#message p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+/* News */
+#news {
+    padding: 40px 0;
+}
+
+#news h2 {
+    font-size: 45px;
+    font-family: 'Allura', cursive;
+}
+
+#news h3 {
+    font-size: 35px;
+    padding: 10px 0;
+}
+
+#news p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+/* Recipe */
+#recipe {
+    padding: 40px 0;
+}
+
+#recipe h2 {
+    font-size: 45px;
+    font-family: 'Allura', cursive;
+}
+
+#recipe img {
+    padding: 15px 50px;
+}
+
+#recipe h3 {
+    font-size: 35px;
+    padding: 10px 0;
+}
+
+#recipe p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+/* Share */
+#share {
+    padding: 40px 0;
+}
+
+#share h2 {
+    font-size: 45px;
+    font-family: 'Allura', cursive;
+}
+
+#share img {
+    padding: 15px 55px;
+}
+
+#share h3 {
+    font-size: 35px;
+    padding: 10px 0;
+}
+
+#share p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+/* Footer */
+footer {
+    border: 2px solid green;
+    padding: 50px;
+}
+
+footer h3 {
+    font-size: 35px;
+    font-family: 'Allura', cursive;
+}
+
+footer p {
+    font-size: 16px;
+}
+
+footer a {
+    color: green;
+}
+
+footer a:hover {
+    color: darkgreen;
+}
